@@ -1,0 +1,30 @@
+html{
+    background-color: #000000;
+    color: purple;
+    margin: 0%
+}
+
+body{
+    text-align: center;
+    margin-right: 10%;
+    margin-left: 10%;
+    background-color: rgb(9, 79, 107);
+    color: rgb(208, 231, 0);
+    margin-top: 0;
+    height: 100%;
+    margin-bottom: 0;
+}
+
+p{
+    text-align: center;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-bottom: 0;
+}
+
+h1{
+    text-align: center;
+    margin-top: 0;
+    padding-top: 30px;
+    font-size: 2em;
+}
