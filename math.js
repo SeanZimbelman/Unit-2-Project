@@ -1,4 +1,4 @@
-let decimal = prompt("Test?");
+let decimal = prompt("What is your decimal number?");
 
 function dec_to_bh(number1, type) {
     switch (type) {
